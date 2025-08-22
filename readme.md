@@ -16,12 +16,5 @@ This project explores **eco-friendly alternatives** to plastic tea bags by:
 - Engaging with **local tea producers** for sustainable adoption.  
 - Advocating for **policy-level change** in packaging standards.  
 
-## 📂 Repository Structure  
-- `docs/` → Documentation & reports  
-- `research/` → Studies, surveys, data  
-- `prototypes/` → Design sketches & prototype details  
-- `presentations/` → PPTs, posters, awareness materials  
-- `community/` → Engagement activities & feedback  
-
 ## 🚀 Goal  
 To create a **sustainable, health-safe, and eco-friendly alternative** to conventional tea bags.
